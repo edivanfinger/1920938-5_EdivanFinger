@@ -50,7 +50,7 @@
       </div>
       <div class="modal-body">
         <div style="text-align: center">
-          <img id="image" class="card-img-top" style="height: 400px; width: 400px">
+          <img id="image" class="card-img-top" style="height: 400px; width: 600px">
           <br><br>
           <h6 id="description"></h6>
         </div>
