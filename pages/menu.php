@@ -6,7 +6,7 @@
 
   <body>
     <nav class="alert bg-dark navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="home.html">Doces da Vó Lurdes</a>
+      <a class="navbar-brand" href="home.php">Doces da Vó Lurdes</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -14,13 +14,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="home.html">Home</a>
+            <a class="nav-link" href="home.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="quem_somos.html">Quem somos?</a>
+            <a class="nav-link" href="contato.php">Contato</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contato.html">Contato</a>
+            <a class="nav-link" href="quem_somos.php">Quem somos?</a>
           </li>
         </ul>
       </div>
